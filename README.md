@@ -1,2 +1,2 @@
 # Scrapers
-Scrape swiss laws and federal cases
+Scrape swiss laws and federal cases.
